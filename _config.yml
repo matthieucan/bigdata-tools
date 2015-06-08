@@ -1,0 +1,20 @@
+name: Big Data Tools
+
+headlines:
+- Data analytics frameworks
+- Databases
+- Streaming
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "tools"
+      type: "page"
+    values:
+      layout: "tool"
