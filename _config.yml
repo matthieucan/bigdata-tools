@@ -3,6 +3,8 @@ name: Big Data Tools
 headlines:
 - Data analytics frameworks
 - Databases
+- Graphs
+- Machine Learning
 - Streaming
 
 defaults:

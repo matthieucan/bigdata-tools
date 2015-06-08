@@ -26,6 +26,6 @@ Hi I'm Spark!
 ## See also
 
 * [Spark Streaming](/tools/spark-streaming.html): a streaming engine (part of Spark)
-* [GraphX](tools/graphx.html): a graph library (part of Spark)
-* [Spark SQL](tools/spark-sql.html)
-* [MLlib](tools/mllib.html): Spark's machine learning library
+* [GraphX](/tools/graphx.html): a graph library (part of Spark)
+* [Spark SQL](/tools/spark-sql.html)
+* [MLlib](/tools/mllib.html): Spark's machine learning library
