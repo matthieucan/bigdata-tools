@@ -9,12 +9,12 @@ defaults:
   -
     scope:
       path: ""
-      type: "page"
+      type: "pages"
     values:
       layout: "default"
   -
     scope:
       path: "tools"
-      type: "page"
+      type: "pages"
     values:
       layout: "tool"
