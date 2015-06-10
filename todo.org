@@ -1,0 +1,24 @@
+* TODO List of tools to write about
+** Apache Zookeeper
+** Apache Storm
+** Hadoop
+** HDFS
+** OpenStack
+** MongoDB
+** Cassandra
+** Neo4j
+** HBase
+** Hive
+** Redis
+** Mahout
+** Talend
+** Pig
+** R
+** Solr
+** ElasticSearch
+** Lucene
+** Flume
+** MapReduce
+** Mesos
+** Borg
+** Kubernetes
