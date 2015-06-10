@@ -6,6 +6,9 @@ headlines:
 - Graphs
 - Machine Learning
 - Streaming
+- Programming paradigms
+- Schedulers
+- Cluster managers
 
 defaults:
   -
