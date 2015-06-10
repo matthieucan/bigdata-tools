@@ -2,19 +2,4 @@
 title: Home
 ---
 
-<ul>
-  {% for category in site.headlines %}
-    <li>
-      {{ category }}
-      <ul>
-        {% for page in site.pages %}
-          {% if page.dir == '/tools' and page.categories contains category %}
-            <li>
-              <a href="{{ page.url }}">{{ page.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
+{% include listpages.inc.html %}

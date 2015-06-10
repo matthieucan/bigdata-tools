@@ -2,10 +2,8 @@
 title: Apache Spark
 categories:
 - Data analytics frameworks
+website: http://spark.apache.org
 ---
-
-* Category: {{ page.categories }}
-* [Official website](http://spark.apache.org)
 
 ## Description
 
