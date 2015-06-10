@@ -1,0 +1,9 @@
+#sidebar {
+    background-color: #7FF589;
+    min-height: 100%;
+    /*height: 100%;*/
+}
+
+html, body, .row, .container-fluid {
+    height: 100%;
+}
